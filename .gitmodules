@@ -1,0 +1,3 @@
+[submodule "hoymiles"]
+	path = hoymiles
+	url = https://github.com/dmslabsbr/hoymiles.git
