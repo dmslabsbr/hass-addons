@@ -1,6 +1,7 @@
 [submodule "hoymiles"]
 	path = hoymiles
 	url = https://github.com/dmslabsbr/hoymiles.git
+	branch = master
 [submodule "smsUps"]
 	path = smsUps
 	url = https://github.com/dmslabsbr/smsUps.git
